@@ -11,3 +11,6 @@
 - Tope por pago: $0.02. Lo que lo excede se rechaza sin transacción.
 - Pago del agente a mi API: 495ea5aa474f5b56806b01e0eeab9505676e02cdd12f95eb03399fd01752e4e4
 - Verlo: https://stellar.expert/explorer/testnet/tx/495ea5aa474f5b56806b01e0eeab9505676e02cdd12f95eb03399fd01752e4e4
+
+## Mi verificador
+- Pago que verifiqué con RPC: 770365cf35c772d9680184572ced0b22ede8405a6d9d18df5e1684626b2052ac
